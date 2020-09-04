@@ -1,0 +1,13 @@
+//
+//  LabelViewController.h
+//  Runtime用法种种
+//
+//  Created by Donny on 16/10/18.
+//  Copyright © 2016年 Donny. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface LabelViewController : UIViewController
+
+@end
