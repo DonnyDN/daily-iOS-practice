@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='两数之和'/>
-        <page name='二叉树顺序遍历'/>
-        <page name='动态规划-斐波那契数列'/>
-        <page name='数组中重复的数字'/>
-        <page name='数组内Int元素拼接成最大字符串值'/>
         <page name='冒泡排序-插入排序-选择排序'/>
         <page name='快速排序-随机快排-双路快排-三路快排'/>
         <page name='堆排序-归并排序'/>
-        <page name='二位数组中的查找'/>
-        <page name='Untitled Page 4'/>
+        <page name='动态规划-斐波那契数列'/>
+        <page name='两数之和'/>
+        <page name='数组中重复的数字'/>
+        <page name='数组内Int元素拼接成最大字符串值'/>
+        <page name='只出现一次的数字'/>
+        <page name='二叉树顺序遍历2'/>
+        <page name='二叉树的深度'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>
